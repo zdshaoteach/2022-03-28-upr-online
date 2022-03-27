@@ -17,3 +17,13 @@
 ## display line number and wrap lines in notebook cell
 
 - change the content in local file ~/.jupyter/nbconfig/notebook.json with [notebook.json](notebook.json)
+
+## teaching shedule
+
+- 13:00 → 14:00 EST/19:00 → 20:00 CET | Python: Python I 
+- 14:30 → 16:30 EST/20:30 → 22:30 CET | Python: Building Programs with Python
+- 13:00 → 14:30 EST/19:00 → 20:30 CET | Python: Python II 
+- 15:00 → 16:30 EST/21:00 → 22:30 CET | Python: Defensive Programming
+
+## contact email
+[drssth@gmail.com](mailto:drssth@gmail.com)
