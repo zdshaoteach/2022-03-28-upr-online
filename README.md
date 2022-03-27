@@ -26,6 +26,13 @@
 - 15:00 → 16:30 EST/21:00 → 22:30 CET | Python: Defensive Programming (errors, assert, and tests)
 
 
+## interact
+
+- all notes are available online at https://github.com/zdshaoteach/2022-03-28-upr-online
+- Please try to follow the live coding during the lessons
+- please `raise hand` if you are falling behind
+- please interrupt the instructor or reach out to helpers when you observe strange behaviors/results on jupyter
+
 ## reference
 
 - [The Python Tutorial](https://docs.python.org/3/tutorial/)
