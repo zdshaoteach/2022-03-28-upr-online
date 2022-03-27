@@ -20,8 +20,8 @@
 
 ## teaching shedule
 
-- 13:00 → 14:00 EST/19:00 → 20:00 CET | Python: Python I (variables, data types, operators, built-in functions, and keywords)
-- 14:30 → 16:30 EST/20:30 → 22:30 CET | Python: Building Programs with Python (complex data structures, lists, dataframes, read csv files, and plots)
+- 13:00 → 14:00 EST/19:00 → 20:00 CET | Python: Python I (notebook introduction, variables, data types, operators, and built-in functions)
+- 14:30 → 16:30 EST/20:30 → 22:30 CET | Python: Building Programs with Python (working with libraries, keywords, complex data structures, lists, dataframes, work with csv files, and data visualization)
 - 13:00 → 14:30 EST/19:00 → 20:30 CET | Python: Python II (loops, conditions, functions, variable scope, and programming style)
 - 15:00 → 16:30 EST/21:00 → 22:30 CET | Python: Defensive Programming (errors, assert, and tests)
 
