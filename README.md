@@ -20,10 +20,19 @@
 
 ## teaching shedule
 
-- 13:00 → 14:00 EST/19:00 → 20:00 CET | Python: Python I 
-- 14:30 → 16:30 EST/20:30 → 22:30 CET | Python: Building Programs with Python
-- 13:00 → 14:30 EST/19:00 → 20:30 CET | Python: Python II 
-- 15:00 → 16:30 EST/21:00 → 22:30 CET | Python: Defensive Programming
+- 13:00 → 14:00 EST/19:00 → 20:00 CET | Python: Python I (variables, data types, operators, built-in functions, and keywords)
+- 14:30 → 16:30 EST/20:30 → 22:30 CET | Python: Building Programs with Python (complex data structures, lists, dataframes, read csv files, and plots)
+- 13:00 → 14:30 EST/19:00 → 20:30 CET | Python: Python II (loops, conditions, functions, variable scope, and programming style)
+- 15:00 → 16:30 EST/21:00 → 22:30 CET | Python: Defensive Programming (errors, assert, and tests)
+
+
+## reference
+
+- [The Python Tutorial](https://docs.python.org/3/tutorial/)
+- [w3schools](https://www.w3schools.com/python/default.asp)
+- [The Python Standard Library](https://docs.python.org/3/library/index.html)
+- [Getting started with `pandas`](https://pandas.pydata.org/docs/getting_started/index.html#getting-started)
+- [Visualization with `matplotlib`](https://matplotlib.org/stable/tutorials/index)
 
 ## contact email
 [drssth@gmail.com](mailto:drssth@gmail.com)
