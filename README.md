@@ -29,7 +29,7 @@
 ## interact
 
 - all notes are available online at https://github.com/zdshaoteach/2022-03-28-upr-online
-- Please try to follow the live coding during the lessons
+- please try to follow the live coding during the lessons
 - please `raise hand` if you are falling behind
 - please interrupt the instructor or reach out to helpers when you observe strange behaviors/results on jupyter
 
