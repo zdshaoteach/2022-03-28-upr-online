@@ -17,7 +17,7 @@
 
 ## setup python
 
-- if you have not installed python:
+- if you have not installed python/jupyter:
     1. option I: please follow the video guide under the [Carpentries Material Link (prerequisites)](https://indico.cern.ch/event/1112526/).
     2. option II: please follow the guide on [Programming with Python: Setup](https://swcarpentry.github.io/python-novice-inflammation/setup.html) to setup python. note that you do NOT need to download the data, only setup the python.
 - start jupyter notebook: 
