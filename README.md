@@ -16,7 +16,7 @@
 
 ## setup python
 
-- please follow the guide [Programming with Python: Setup](https://swcarpentry.github.io/python-novice-inflammation/setup.html)
+- please follow the guide on [Programming with Python: Setup](https://swcarpentry.github.io/python-novice-inflammation/setup.html) to setup python. note that you do NOT need to download the data, only setup the python.
 - start jupyter notebook: 
     1. from the command-line `jupyter notebook`; 
     2. using the anaconda navigator;
