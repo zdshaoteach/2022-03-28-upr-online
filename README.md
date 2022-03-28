@@ -37,8 +37,8 @@
 
 ## interact
 
-- all notes are available online at https://github.com/zdshaoteach/2022-03-28-upr-online
-- please try to follow the live coding during the lessons
+- all notes are available and will be updated at https://github.com/zdshaoteach/2022-03-28-upr-online
+- please try to follow the live coding during the lessons instead of reading the github notes
 - please `raise hand` if you are falling behind
 - please interrupt the instructor or reach out to helpers when you observe strange behaviors/results on jupyter
 
@@ -52,6 +52,6 @@
 
 ## contact email
 
-- work email : [z.shao@hzdr.de](mailto:z.shao@hzdr.de)
+- work email : [z.shao@hzdr.de](mailto:z.shao@hzdr.de) (preferred)
 - personal email : [drssth@gmail.com](mailto:drssth@gmail.com)
 
