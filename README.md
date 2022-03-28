@@ -19,7 +19,8 @@
 - please follow the guide [Programming with Python: Setup](https://swcarpentry.github.io/python-novice-inflammation/setup.html)
 - start jupyter notebook: 
     1. from the command-line `jupyter notebook`; 
-    2. using the anaconda navigator.
+    2. using the anaconda navigator;
+    3. type `control` + `C` on the keyboard together to quit jupyter notebook.
 
 
 ## display line number and wrap lines in notebook cell
