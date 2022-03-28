@@ -55,3 +55,7 @@
 - work email : [z.shao@hzdr.de](mailto:z.shao@hzdr.de) (preferred)
 - personal email : [drssth@gmail.com](mailto:drssth@gmail.com)
 
+## emoji
+
+https://emojipedia.org/star/
+
