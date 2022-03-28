@@ -12,6 +12,7 @@
 - [workshop page with survey and setup](https://czirion.github.io/2022-03-28-upr-online/)
 - [python code](https://github.com/zdshaoteach/2022-03-28-upr-online)
 - [python lesson page](https://zdshaoteach.github.io/)
+- [lesson etherpad for interactions](https://pad.carpentries.org/2022-03-28-upr-online)
 
 
 ## setup python
