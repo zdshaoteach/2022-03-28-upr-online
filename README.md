@@ -14,6 +14,14 @@
 - [python lesson page](https://zdshaoteach.github.io/)
 
 
+## setup python
+
+- please follow the guide [Programming with Python: Setup](https://swcarpentry.github.io/python-novice-inflammation/setup.html)
+- start jupyter notebook: 
+    1. from the command-line `jupyter notebook`; 
+    2. using the anaconda navigator.
+
+
 ## display line number and wrap lines in notebook cell
 
 - change the content in local file ~/.jupyter/nbconfig/notebook.json with [notebook.json](notebook.json)
