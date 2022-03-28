@@ -25,7 +25,7 @@
     2. using the anaconda navigator;
     3. type `control` + `C` on the keyboard together to quit jupyter notebook.
 - jupyter notebook and jupyter lab are essentially the same.
-
+- you need to manually install `pandas` and `matplotlib` if you do not have them (comes with anaconda but not other installation).
 
 ## teaching shedule
 
