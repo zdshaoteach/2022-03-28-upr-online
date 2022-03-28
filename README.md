@@ -23,10 +23,6 @@
     3. type `control` + `C` on the keyboard together to quit jupyter notebook.
 
 
-## display line number and wrap lines in notebook cell
-
-- change the content in local file ~/.jupyter/nbconfig/notebook.json with [notebook.json](notebook.json)
-
 ## teaching shedule
 
 - 13:00 → 14:00 EST/19:00 → 20:00 CET | Python: Python I (notebook introduction, variables, data types, operators, and built-in functions)
@@ -52,3 +48,4 @@
 
 ## contact email
 [drssth@gmail.com](mailto:drssth@gmail.com)
+
