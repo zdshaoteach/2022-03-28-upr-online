@@ -47,5 +47,7 @@
 - [Visualization with `matplotlib`](https://matplotlib.org/stable/tutorials/index)
 
 ## contact email
-[drssth@gmail.com](mailto:drssth@gmail.com)
+
+- work email : [z.shao@hzdr.de](mailto:z.shao@hzdr.de)
+- personal email : [drssth@gmail.com](mailto:drssth@gmail.com)
 
