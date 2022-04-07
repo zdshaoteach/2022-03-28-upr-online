@@ -11,7 +11,7 @@
 - [credit to supplementary *Python* curriculum **Programming with Python** (Python: Defensive Programming) with minor adjustments](https://swcarpentry.github.io/python-novice-inflammation/)
 - [workshop page with survey and setup](https://czirion.github.io/2022-03-28-upr-online/)
 - [python code](https://github.com/zdshaoteach/2022-03-28-upr-online)
-- [python lesson page](https://zdshaoteach.github.io/)
+- [lesson page from the carpentries (setup by Zongru (Doris) Shao, survey link not used from here)](https://zdshaoteach.github.io/2022-03-28-upr-online/)
 - [lesson etherpad for interactions](https://pad.carpentries.org/2022-03-28-upr-online)
 
 
@@ -20,7 +20,7 @@
 - if you have not installed python/jupyter:
     1. option I: please follow the video guide under the [Carpentries Material Link (prerequisites)](https://indico.cern.ch/event/1112526/).
     2. option II: please follow the guide on [Programming with Python: Setup](https://swcarpentry.github.io/python-novice-inflammation/setup.html) to setup python. note that you do NOT need to download the data, only setup the python.
-- start jupyter notebook: 
+- start jupyter notebook:
     1. from the command-line `jupyter notebook` (use `jupyter lab` to start the jupyter lab);
     2. using the anaconda navigator;
     3. type `control` + `C` on the keyboard together to quit jupyter notebook.
@@ -57,5 +57,5 @@
 
 ## emoji
 
-https://emojipedia.org/star/
+[emoji](https://emojipedia.org/star/)
 
