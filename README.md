@@ -11,7 +11,7 @@
 - [credit to supplementary *Python* curriculum **Programming with Python** (Python: Defensive Programming) with minor adjustments](https://swcarpentry.github.io/python-novice-inflammation/)
 - [workshop page with survey and setup](https://czirion.github.io/2022-03-28-upr-online/)
 - [python code](https://github.com/zdshaoteach/2022-03-28-upr-online)
-- [lesson page from the carpentries (setup by Zongru (Doris) Shao, survey link not used from here)](https://zdshaoteach.github.io/2022-03-28-upr-online/)
+- [lesson page from the carpentries (setup by Zongru (Doris) Shao, survey link not used from here)](https://zdshaoteach.github.io/web-2022-03-28-upr-online/)
 - [lesson etherpad for interactions](https://pad.carpentries.org/2022-03-28-upr-online)
 
 
